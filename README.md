@@ -1,6 +1,6 @@
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=vishal02527&label=Profile%20views&color=0e75b6&style=flat" alt="vishal02527" /> 
- <img alt="Stars" src="https://img.shields.io/github/stars/vishal02527?style=flat&labelColor=343b41"/> 
+ <img src="https://komarev.com/ghpvc/?username=PatelHarsh2006&label=Profile%20views&color=0e75b6&style=flat" alt="PatelHarsh2006" /> 
+ <img alt="Stars" src="https://img.shields.io/github/stars/PatelHarsh2006?style=flat&labelColor=343b41"/> 
 </p>
  
  # <div align="center"> 👨‍🎓 Hello! I am [Patel Harsh...] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </div>
@@ -50,9 +50,6 @@
     <img src="https://img.shields.io/badge/Decision Making-FE7A16?style=for-the-badge&logoColor=white" alt="Decision Making"/>
   </a>
 </div>
-
-## 📅Databases:
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
 
 ## ⚙️Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)

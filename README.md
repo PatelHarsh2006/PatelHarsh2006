@@ -31,11 +31,6 @@
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white height="80px" width="150px" alt="Linkedin Badge"/>
   </a>
 </div>
-<style>
-.badges a img{
-border-radius:30px;
- }
-</style> 
 
 <br>
 

@@ -25,7 +25,7 @@
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me on:</h2>
 <div id="badges">
   <a href="https://github.com/PatelHarsh2006">
-    <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white height="70px" width="150px" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white height="50px" width="150px" alt="Github Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/harshpatel2006">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white height="80px" width="150px" alt="Linkedin Badge"/>

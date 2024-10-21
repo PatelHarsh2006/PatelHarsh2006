@@ -32,7 +32,7 @@
   </a>
 </div>
 <style>
-.badges img{
+.badges a img{
 border-radius:30px;
  }
 </style> 

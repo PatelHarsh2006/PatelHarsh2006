@@ -1,5 +1,5 @@
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=PatelHarsh2006&label=Profile%20views&color=229fee=flat" alt="PatelHarsh2006" /> 
+ <img src="https://komarev.com/ghpvc/?username=PatelHarsh2006&label=Profile%20views&color=229fee" alt="PatelHarsh2006" /> 
  <img alt="Stars" src="https://img.shields.io/github/stars/PatelHarsh2006?style=flat&labelColor=343b41"/> 
 </p>
  

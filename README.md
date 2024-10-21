@@ -26,15 +26,19 @@
 <div id="badges">
   <a href="https://github.com/PatelHarsh2006">
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a><t>
+  </a><t><t><t><t><t><t><t><t><t><t><t><t><t>
    <a href="https://www.linkedin.com/in/harshpatel2006">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
+   
+<br>
 
 ## 💻Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript)](https://skillicons.dev)
 
+<br>
+   
 ## 👤Soft Skills:
 <div id="badges">
   <a>
@@ -51,6 +55,8 @@
   </a>
 </div>
 
+<br>
+   
 ## ⚙️Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 

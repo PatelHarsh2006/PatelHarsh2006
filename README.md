@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white  height="40px" width="150px" alt="Github Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/harshpatel2006">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white height="80px" width="150px" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white height="90px" width="150px" alt="Linkedin Badge"/>
   </a>
 </div>
 

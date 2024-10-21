@@ -3,7 +3,7 @@
  <img alt="Stars" src="https://img.shields.io/github/stars/PatelHarsh2006?style=flat&labelColor=343b41"/> 
 </p>
  
- # <div align="center"> 👨‍🎓 Hello! I am [Patel Harsh...](https://vishal-creator-profile.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </div>
+ # <div align="center"> 👨‍🎓 Hello! I am [Patel Harsh...](https://www.linkedin.com/in/harshpatel2006/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </div>
 <h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
 <br />
 

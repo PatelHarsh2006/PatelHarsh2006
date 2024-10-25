@@ -1,5 +1,5 @@
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=PatelHarsh2006&label=Profile%20views&color=0fff00" alt="PatelHarsh2006" />  
+ <img src="https://komarev.com/ghpvc/?username=PatelHarsh2006&label=Profile%20views&color=#ffa500" alt="PatelHarsh2006" />  
 </p>
  
  # <div align="center"> Hi, I am [Patel Harsh...](https://www.linkedin.com/in/harshpatel2006/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </div>

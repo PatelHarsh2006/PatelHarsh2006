@@ -39,9 +39,7 @@
    
 ## 👤Soft Skills:
 <div id="badges">
-  <a>
-    <img src="https://img.shields.io/badge/Communication-yellow?style=for-the-badge&logoColor=white" alt="Communication"/>
-  </a>
+ 
   <a>
     <img src="https://img.shields.io/badge/Time Management-470137?style=for-the-badge&logoColor=white" alt="Time Management"/>
   </a>
